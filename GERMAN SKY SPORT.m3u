@@ -1,0 +1,136 @@
+#EXTM3U
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga1hd.png" group-title="Germany",Sky Sport Bundesliga 1 HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3436.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="Sky Sport Bundesliga 1 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga1hd.png" group-title="VIP DE",Sky Sport Bundesliga 1 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7338.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 DE" tvg-name="Sky Sport Bundesliga 2 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga2hd.png" group-title="VIP DE",Sky Sport Bundesliga 2 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7339.ts
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 DE" tvg-name="Sky Sport Bundesliga 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga1.png" group-title="Germany",Sky Sport Bundesliga 1 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14550.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 DE" tvg-name="Sky Sport Bundesliga 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga2.png" group-title="Germany",Sky Sport Bundesliga 2 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14551.ts
+
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="Sky Sport 1 DE" tvg-logo="http://secure.clientportal.link/picons/skysport1de.png" group-title="Germany",Sky Sport 1 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14559.ts
+#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="Sky Sport 2 DE" tvg-logo="http://secure.clientportal.link/picons/skysport2de.png" group-title="Germany",Sky Sport 2 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14560.ts
+
+#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="Sky Sport News DE" tvg-logo="http://secure.clientportal.link/picons/skysportnews.png" group-title="Germany",Sky Sport News DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14577.ts
+#EXTINF:-1 tvg-id="Sky Sport News DE" tvg-name="Sky Sport News HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysportnewshd.png" group-title="VIP DE",Sky Sport News HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7337.ts
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="Sky Sport 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/skysport1hd.png" group-title="Germany",Sky Sport 1 HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1479.ts
+#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="Sky Sport 2 HD DE" tvg-logo="http://secure.clientportal.link/picons/skysport2hd.png" group-title="Germany",Sky Sport 2 HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1480.ts
+#EXTINF:-1 tvg-id="Sky Sport 1 DE" tvg-name="Sky Sport 1 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysport1hd.png" group-title="VIP DE",Sky Sport 1 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7326.ts
+#EXTINF:-1 tvg-id="Sky Sport 2 DE" tvg-name="Sky Sport 2 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysport2hd.png" group-title="VIP DE",Sky Sport 2 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7327.ts
+
+
+#EXTINF:-1 tvg-id="Eurosport 1 DE" tvg-name="Eurosport 1 HD DE" tvg-logo="http://secure.clientportal.link/picons/eurosport1hd.png" group-title="Germany",Eurosport 1 HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3435.ts
+#EXTINF:-1 tvg-id="Eurosport 2 DE" tvg-name="Eurosport 2 DE" tvg-logo="http://secure.clientportal.link/picons/eurosport2uk.png" group-title="Germany",Eurosport 2 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/9553.ts
+#EXTINF:-1 tvg-id="Motorvision TV DE" tvg-name="Motorvision TV DE" tvg-logo="http://secure.clientportal.link/picons/motorvision.png" group-title="Germany",Motorvision TV DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/9564.ts
+#EXTINF:-1 tvg-id="Sport1 DE" tvg-name="Sport1 DE" tvg-logo="http://secure.clientportal.link/picons/sport1.png" group-title="Germany",Sport1 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/9552.ts
+#EXTINF:-1 tvg-id="Sport1 US DE" tvg-name="Sport1 US HD DE" tvg-logo="http://secure.clientportal.link/picons/sport1ushd.png" group-title="Germany",Sport1 US HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3450.ts
+#EXTINF:-1 tvg-id="sportdigital DE" tvg-name="sportdigital DE" tvg-logo="http://secure.clientportal.link/picons/sportdigital.png" group-title="Germany",sportdigital DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3841.ts
+#EXTINF:-1 tvg-id="Sky Sport Austria DE" tvg-name="Sky Sport Austria DE" tvg-logo="http://secure.clientportal.link/picons/skysportaustria.png" group-title="Germany",Sky Sport Austria DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/9551.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD DE" tvg-logo="" group-title="Germany",Eurosport 2 HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Austria HD DE" tvg-logo="" group-title="Germany",Sky Sport Austria HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/15578.ts
+
+
+
+
+#EXTINF:-1 tvg-id="Sky Sport 3 DE" tvg-name="Sky Sport 3 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysport3hd.png" group-title="VIP DE",Sky Sport 3 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7328.ts
+#EXTINF:-1 tvg-id="Sky Sport 4 DE" tvg-name="Sky Sport 4 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysport4hd.png" group-title="VIP DE",Sky Sport 4 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7329.ts
+#EXTINF:-1 tvg-id="Sky Sport 5 DE" tvg-name="Sky Sport 5 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysport5hd.png" group-title="VIP DE",Sky Sport 5 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7330.ts
+#EXTINF:-1 tvg-id="Sky Sport 6 DE" tvg-name="Sky Sport 6 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysport6hd.png" group-title="VIP DE",Sky Sport 6 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7331.ts
+#EXTINF:-1 tvg-id="Sky Sport 7 DE" tvg-name="Sky Sport 7 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysport7hd.png" group-title="VIP DE",Sky Sport 7 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7332.ts
+#EXTINF:-1 tvg-id="Sky Sport 8 DE" tvg-name="Sky Sport 8 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysport8hd.png" group-title="VIP DE",Sky Sport 8 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7333.ts
+#EXTINF:-1 tvg-id="Sky Sport 9 DE" tvg-name="Sky Sport 9 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysport9hd.png" group-title="VIP DE",Sky Sport 9 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7334.ts
+#EXTINF:-1 tvg-id="Sky Sport 10 DE" tvg-name="Sky Sport 10 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysport10hd.png" group-title="VIP DE",Sky Sport 10 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7335.ts
+#EXTINF:-1 tvg-id="Sky Sport 11 DE" tvg-name="Sky Sport 11 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysport11hd.png" group-title="VIP DE",Sky Sport 11 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7336.ts
+
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 DE" tvg-name="Sky Sport Bundesliga 3 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga3hd.png" group-title="VIP DE",Sky Sport Bundesliga 3 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7340.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 DE" tvg-name="Sky Sport Bundesliga 4 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga4hd.png" group-title="VIP DE",Sky Sport Bundesliga 4 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7341.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 DE" tvg-name="Sky Sport Bundesliga 5 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga5hd.png" group-title="VIP DE",Sky Sport Bundesliga 5 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7342.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 DE" tvg-name="Sky Sport Bundesliga 6 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga6hd.png" group-title="VIP DE",Sky Sport Bundesliga 6 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7343.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 7 DE" tvg-name="Sky Sport Bundesliga 7 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga7hd.png" group-title="VIP DE",Sky Sport Bundesliga 7 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7344.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8 DE" tvg-name="Sky Sport Bundesliga 8 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga8hd.png" group-title="VIP DE",Sky Sport Bundesliga 8 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7345.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9 DE" tvg-name="Sky Sport Bundesliga 9 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga9hd.png" group-title="VIP DE",Sky Sport Bundesliga 9 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7346.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 10 HD VIP DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga10hd.png" group-title="VIP DE",Sky Sport Bundesliga 10 HD VIP DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/7347.ts
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 DE" tvg-name="Sky Sport Bundesliga 3 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga3.png" group-title="Germany",Sky Sport Bundesliga 3 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14552.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 DE" tvg-name="Sky Sport Bundesliga 4 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga4.png" group-title="Germany",Sky Sport Bundesliga 4 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14553.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 DE" tvg-name="Sky Sport Bundesliga 5 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga5.png" group-title="Germany",Sky Sport Bundesliga 5 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14554.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 DE" tvg-name="Sky Sport Bundesliga 6 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga6.png" group-title="Germany",Sky Sport Bundesliga 6 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14555.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8 DE" tvg-name="Sky Sport Bundesliga 8 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga8.png" group-title="Germany",Sky Sport Bundesliga 8 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14556.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9 DE" tvg-name="Sky Sport Bundesliga 9 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga9.png" group-title="Germany",Sky Sport Bundesliga 9 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 10 DE" tvg-logo="http://secure.clientportal.link/picons/skysportbundesliga10.png" group-title="Germany",Sky Sport Bundesliga 10 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14558.ts
+
+#EXTINF:-1 tvg-id="Sky Sport 3 DE" tvg-name="Sky Sport 3 DE" tvg-logo="http://secure.clientportal.link/picons/skysport3de.png" group-title="Germany",Sky Sport 3 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14561.ts
+#EXTINF:-1 tvg-id="Sky Sport 4 DE" tvg-name="Sky Sport 4 DE" tvg-logo="http://secure.clientportal.link/picons/skysport4de.png" group-title="Germany",Sky Sport 4 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14562.ts
+#EXTINF:-1 tvg-id="Sky Sport 5 DE" tvg-name="Sky Sport 5 DE" tvg-logo="http://secure.clientportal.link/picons/skysport5de.png" group-title="Germany",Sky Sport 5 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14563.ts
+#EXTINF:-1 tvg-id="Sky Sport 6 DE" tvg-name="Sky Sport 6 DE" tvg-logo="http://secure.clientportal.link/picons/skysport6de.png" group-title="Germany",Sky Sport 6 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14564.ts
+#EXTINF:-1 tvg-id="Sky Sport 7 DE" tvg-name="Sky Sport 7 DE" tvg-logo="http://secure.clientportal.link/picons/skysport7de.png" group-title="Germany",Sky Sport 7 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14565.ts
+#EXTINF:-1 tvg-id="Sky Sport 8 DE" tvg-name="Sky Sport 8 DE" tvg-logo="http://secure.clientportal.link/picons/skysport8de.png" group-title="Germany",Sky Sport 8 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14566.ts
+#EXTINF:-1 tvg-id="Sky Sport 9 DE" tvg-name="Sky Sport 9 DE" tvg-logo="http://secure.clientportal.link/picons/skysport9de.png" group-title="Germany",Sky Sport 9 DE
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14567.ts
+
