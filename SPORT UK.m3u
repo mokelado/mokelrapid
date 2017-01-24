@@ -1,0 +1,172 @@
+#EXTM3U
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS F1 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14656.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 5 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS 5 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14655.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 4 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS 4 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14654.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 3 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS 3 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14653.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 2 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS 2 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14652.ts
+#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS 1 HD 1080P UK" tvg-logo="" group-title="United Kingdom",SKY SPORTS 1 HD 1080P UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14651.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 3 HD 1080P" tvg-logo="" group-title="United Kingdom",BT SPORTS 3 HD 1080P
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14659.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 2 HD 1080P" tvg-logo="" group-title="United Kingdom",BT SPORTS 2 HD 1080P
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14658.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT SPORTS 1 HD 1080P" tvg-logo="" group-title="United Kingdom",BT SPORTS 1 HD 1080P
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14657.ts
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 UK" tvg-logo="http://secure.clientportal.link/picons/btsport1.png" group-title="United Kingdom",BT Sport 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3586.ts
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 UK" tvg-logo="http://secure.clientportal.link/picons/btsport2.png" group-title="United Kingdom",BT Sport 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3588.ts
+#EXTINF:-1 tvg-id="BT Sport Europe UK" tvg-name="BT Sport 3 UK" tvg-logo="http://secure.clientportal.link/picons/btsporteurope.png" group-title="United Kingdom",BT Sport 3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1965.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport EXTRA UK" tvg-logo="http://secure.clientportal.link/picons/btsportextra.png" group-title="United Kingdom",BT Sport EXTRA UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2682.ts
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="BT Sport ESPN UK" tvg-logo="http://secure.clientportal.link/picons/btsportespn.png" group-title="United Kingdom",BT Sport ESPN UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2673.ts
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 UK" tvg-logo="http://secure.clientportal.link/picons/eurosport1uk.png" group-title="United Kingdom",Eurosport 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3590.ts
+#EXTINF:-1 tvg-id="eir Sport 2 UK" tvg-name="eir Sport 2 UK" tvg-logo="http://secure.clientportal.link/picons/eirsport2.png" group-title="United Kingdom",eir Sport 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12344.ts
+#EXTINF:-1 tvg-id="eir Sport 1 UK" tvg-name="eir Sport 1 UK" tvg-logo="http://secure.clientportal.link/picons/eirsport1.png" group-title="United Kingdom",eir Sport 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/12343.ts
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="Eurosport 2 UK" tvg-logo="http://secure.clientportal.link/picons/eurosport2uk.png" group-title="United Kingdom",Eurosport 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3591.ts
+#EXTINF:-1 tvg-id="Premier Sports UK" tvg-name="Premier Sports UK" tvg-logo="http://secure.clientportal.link/picons/premiersports.png" group-title="United Kingdom",Premier Sports UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3584.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="Sky Sports 1 UK" tvg-logo="http://secure.clientportal.link/picons/skysports1.png" group-title="United Kingdom",Sky Sports 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3593.ts
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="Sky Sports 2 UK" tvg-logo="http://secure.clientportal.link/picons/skysports2.png" group-title="United Kingdom",Sky Sports 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3595.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="Sky Sports 3 UK" tvg-logo="http://secure.clientportal.link/picons/skysports3.png" group-title="United Kingdom",Sky Sports 3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3597.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports 4 UK" tvg-logo="http://secure.clientportal.link/picons/skysports4.png" group-title="United Kingdom",Sky Sports 4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3599.ts
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="Sky Sports 5 UK" tvg-logo="http://secure.clientportal.link/picons/skysports5.png" group-title="United Kingdom",Sky Sports 5 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3601.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Box Office UK" tvg-logo="http://secure.clientportal.link/picons/skysportsboxoffice.png" group-title="United Kingdom",Sky Sports Box Office UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/2684.ts
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="Sky Sports F1 UK" tvg-logo="http://secure.clientportal.link/picons/skysportsf1.png" group-title="United Kingdom",Sky Sports F1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3602.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 1 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 1 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8403.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 2 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 2 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8404.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 3 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 3 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8405.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 4 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 4 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8406.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 5 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 5 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8407.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 6 (LIVE DURING EPL) UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 6 (LIVE DURING EPL) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8408.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC E.P.L XTRA 7 (LIVE DURING EPL)  UK" tvg-logo="" group-title="VIP UK",NBC E.P.L XTRA 7 (LIVE DURING EPL)  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8409.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports UK" tvg-logo="" group-title="VIP UK",Sky Net Sports UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 1 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 2 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10919.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 3 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10918.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 4 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 5 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 5 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10916.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 6 UK" tvg-logo="" group-title="VIP UK",Sky Net Sports 6 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10915.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mio Sports 7 UK" tvg-logo="" group-title="VIP UK",Mio Sports 7 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10914.ts
+#EXTINF:-1 tvg-id="" tvg-name="Mio Sports 8 UK" tvg-logo="" group-title="VIP UK",Mio Sports 8 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/10913.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER 1 UK (match time)" tvg-logo="" group-title="VIP UK",PREMIER 1 UK (match time)
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13087.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER 2 UK (match time)" tvg-logo="" group-title="VIP UK",PREMIER 2 UK (match time)
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13088.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER 3 UK (match time)" tvg-logo="" group-title="VIP UK",PREMIER 3 UK (match time)
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13089.ts
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER 4 UK (match time)" tvg-logo="" group-title="VIP UK",PREMIER 4 UK (match time)
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13090.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 1 UK" tvg-logo="" group-title="United Kingdom",ASTRO SuperSport 1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8010.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 2 UK" tvg-logo="" group-title="United Kingdom",ASTRO SuperSport 2 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8011.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 3 UK" tvg-logo="" group-title="United Kingdom",ASTRO SuperSport 3 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8012.ts
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO SuperSport 4 UK" tvg-logo="" group-title="United Kingdom",ASTRO SuperSport 4 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/8013.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 1 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13091.ts
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2 HD UK" tvg-logo="" group-title="United Kingdom",Eurosport 2 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13092.ts
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports UK" tvg-logo="" group-title="United Kingdom",Bein Sports UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/13504.ts
+#EXTINF:-1 tvg-id="Sky Sports News UK" tvg-name="Sky Sports News HD UK" tvg-logo="http://secure.clientportal.link/picons/skysportsnewshqhd.png" group-title="United Kingdom",Sky Sports News HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1954.ts
+#EXTINF:-1 tvg-id="Sky Sports F1 UK" tvg-name="Sky Sports F1 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysportsf1hd.png" group-title="United Kingdom",Sky Sports F1 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3603.ts
+#EXTINF:-1 tvg-id="Sky Sports 5 UK" tvg-name="Sky Sports 5 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysports5.png" group-title="United Kingdom",Sky Sports 5 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/4458.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 UK" tvg-name="Sky Sports 4 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysports4hd.png" group-title="United Kingdom",Sky Sports 4 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3600.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 UK" tvg-name="Sky Sports 3 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysports3hd.png" group-title="United Kingdom",Sky Sports 3 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/3598.ts
+#EXTINF:-1 tvg-id="Sky Sports 2 UK" tvg-name="Sky Sports 2 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysports2hd.png" group-title="United Kingdom",Sky Sports 2 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/5601.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 UK" tvg-name="Sky Sports 1 HD UK" tvg-logo="http://secure.clientportal.link/picons/skysports1hd.png" group-title="United Kingdom",Sky Sports 1 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/5600.ts
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 HD UK" tvg-logo="http://secure.clientportal.link/picons/btsport2hd.png" group-title="United Kingdom",BT Sport 2 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1992.ts
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 HD UK" tvg-logo="http://secure.clientportal.link/picons/btsport1hd.png" group-title="United Kingdom",BT Sport 1 HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1991.ts
+#EXTINF:-1 tvg-id="BT Sport ESPN UK" tvg-name="BT Sport Espn HD UK" tvg-logo="http://secure.clientportal.link/picons/eurosport1hd.png" group-title="United Kingdom",BT Sport Espn HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/1980.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sports Europe HD" tvg-logo="" group-title="",BT Sports Europe HD
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14903.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Mix HD UK" tvg-logo="" group-title="United Kingdom",Sky Sports Mix HD UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14902.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky2 (a) UK" tvg-logo="" group-title="United Kingdom",Sky2 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14737.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky1 +1 UK" tvg-logo="" group-title="United Kingdom",Sky1 +1 UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14738.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports F1 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports F1 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14739.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 5 (c) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 5 (c) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14740.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 5 (b) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 5 (b) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14741.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 5 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 5 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14742.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 4 (b) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 4 (b) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14743.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 4 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 4 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14744.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 3 (c) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 3 (c) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14745.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 3 (b) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 3 (b) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14746.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 3 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 3 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 (c) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 2 (c) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14748.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 (b) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 2 (b) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14749.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 2 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 2 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14750.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1 (c) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 1 (c) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14751.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1 (b) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 1 (b) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14752.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports 1 (a) UK" tvg-logo="" group-title="United Kingdom",Sky Sports 1 (a) UK
+http://clientportal.link:8080/live/wwSzyn7KYO/6v0miTjT1j/14753.ts
