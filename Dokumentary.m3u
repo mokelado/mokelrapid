@@ -1,0 +1,150 @@
+#EXTM3U
+
+
+
+
+
+
+               --------------------German-----------------
+
+
+#EXTINF:-1 tvg-id="History DE" tvg-name="History HD 1080P DE" tvg-logo="http://secure.clientportal.link/picons/historyhd.png" group-title="Germany",History HD 1080P DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/14311.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="Nat Geo Wild HD 1080P DE" tvg-logo="http://secure.clientportal.link/picons/natgeowildhd.png" group-title="Germany",Nat Geo Wild HD 1080P DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/14062.ts
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geographic HD 1080P DE" tvg-logo="http://secure.clientportal.link/picons/nationalgeographichd.png" group-title="Germany",National Geographic HD 1080P DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/14053.ts
+#EXTINF:-1 tvg-id="Discovery Channel DE" tvg-name="Discovery Channel HD DE" tvg-logo="http://secure.clientportal.link/picons/discoverychannelhd.png" group-title="Germany",Discovery Channel HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/3426.ts
+#EXTINF:-1 tvg-id="DMAX DE" tvg-name="DMAX DE" tvg-logo="http://secure.clientportal.link/picons/dmax.png" group-title="Germany",DMAX DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/3431.ts
+#EXTINF:-1 tvg-id="History DE" tvg-name="History DE" tvg-logo="http://secure.clientportal.link/picons/history.png" group-title="Germany",History DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/3424.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild DE" tvg-name="Nat Geo Wild HD DE" tvg-logo="http://secure.clientportal.link/picons/natgeowildhd.png" group-title="Germany",Nat Geo Wild HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/1646.ts
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geographic DE" tvg-logo="http://secure.clientportal.link/picons/nationalgeographicchannel.png" group-title="Germany",National Geographic DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/3419.ts
+#EXTINF:-1 tvg-id="Animal Planet DE" tvg-name="Animal Planet HD DE" tvg-logo="http://secure.clientportal.link/picons/animalplanethd.png" group-title="Germany",Animal Planet HD DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/9561.ts
+#EXTINF:-1 tvg-id="Welt der Wunder DE" tvg-name="Welt der Wunder DE" tvg-logo="http://secure.clientportal.link/picons/weltderwunder.png" group-title="Germany",Welt der Wunder DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/12305.ts
+#EXTINF:-1 tvg-id="AandE DE" tvg-name="A&E DE" tvg-logo="http://secure.clientportal.link/picons/ae.png" group-title="Germany",A&E DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/13109.ts
+#EXTINF:-1 tvg-id="SPIEGEL Geschichte DE" tvg-name="SPIEGEL Geschichte DE" tvg-logo="http://secure.clientportal.link/picons/spiegelgeschichte.png" group-title="Germany",SPIEGEL Geschichte DE
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/3621.ts
+
+
+
+
+---------------------------------arabic OSN-------------------
+
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo AD ARB" tvg-logo="" group-title="Arab Countries",Nat Geo AD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/5787.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Animal Planet HD ARB" tvg-logo="" group-title="Arab Countries",OSN Animal Planet HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/5751.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Family HD ARB" tvg-logo="" group-title="Arab Countries",OSN Discovery Family HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/13715.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery HD ARB" tvg-logo="" group-title="Arab Countries",OSN Discovery HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/5747.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery IDX HD ARB" tvg-logo="" group-title="Arab Countries",OSN Discovery IDX HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/13722.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery SC HD ARB" tvg-logo="" group-title="Arab Countries",OSN Discovery SC HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/12848.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo People HD ARB" tvg-logo="" group-title="Arab Countries",OSN Nat Geo People HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/12828.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Nat Geo Wild HD ARB" tvg-logo="" group-title="Arab Countries",OSN Nat Geo Wild HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/12829.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN National Geo HD ARB" tvg-logo="" group-title="Arab Countries",OSN National Geo HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/13717.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN History HD ARB" tvg-logo="" group-title="Arab Countries",OSN History HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/12842.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Travel Channel HD ARB" tvg-logo="" group-title="Arab Countries",OSN Travel Channel HD ARB
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/13736.ts
+
+
+
+----------------------------------French----------------
+
+
+#EXTINF:-1 tvg-id="Nat Geo Wild FR" tvg-name="Nat Geo Wild HD FR" tvg-logo="http://secure.clientportal.link/picons/natgeowild.png" group-title="France",Nat Geo Wild HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/3606.ts
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="National Geographic FR" tvg-logo="http://secure.clientportal.link/picons/nationalgeographicchannel.png" group-title="France",National Geographic FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/4467.ts
+#EXTINF:-1 tvg-id="Science Vie TV FR" tvg-name="Science & Vie TV HD FR" tvg-logo="http://secure.clientportal.link/picons/scienceetvietv.png" group-title="France",Science & Vie TV HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/13115.ts
+#EXTINF:-1 tvg-id="Animaux FR" tvg-name="Animaux FR" tvg-logo="http://secure.clientportal.link/picons/animaux.png" group-title="France",Animaux FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/4469.ts
+#EXTINF:-1 tvg-id="Chasse et peche FR" tvg-name="Chasse & Peche FR" tvg-logo="http://secure.clientportal.link/picons/chasseandpeche.png" group-title="France",Chasse & Peche FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/2257.ts
+#EXTINF:-1 tvg-id="Discovery Science FR" tvg-name="Discovery Science HD FR" tvg-logo="http://secure.clientportal.link/picons/discoveryscience.png" group-title="France",Discovery Science HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/7578.ts
+#EXTINF:-1 tvg-id="Histoire FR" tvg-name="Histoire HD FR" tvg-logo="http://secure.clientportal.link/picons/histoire.png" group-title="France",Histoire HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/13166.ts
+#EXTINF:-1 tvg-id="Discovery Channel FR" tvg-name="Discovery Channel HD FR" tvg-logo="http://secure.clientportal.link/picons/discoverychannel.png" group-title="France",Discovery Channel HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/7579.ts
+#EXTINF:-1 tvg-id="PlanetePlus Action Experience FR" tvg-name="Planete+ Action & Experience HD FR" tvg-logo="http://secure.clientportal.link/picons/planeteplusae.png" group-title="France",Planete+ Action & Experience HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/13124.ts
+#EXTINF:-1 tvg-id="PlanetePlus FR" tvg-name="Planete+ HD FR" tvg-logo="http://secure.clientportal.link/picons/planeteplus.png" group-title="France",Planete+ HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/2247.ts
+#EXTINF:-1 tvg-id="RMC Decouverte FR" tvg-name="RMC Decouverte HD FR" tvg-logo="http://secure.clientportal.link/picons/rmcdecouverte.png" group-title="France",RMC Decouverte HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/13157.ts
+#EXTINF:-1 tvg-id="Trek FR" tvg-name="Trek HD FR" tvg-logo="http://secure.clientportal.link/picons/trek.png" group-title="France",Trek HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/13185.ts
+#EXTINF:-1 tvg-id="Ushuaia TV FR" tvg-name="Ushuaïa TV HD FR" tvg-logo="http://secure.clientportal.link/picons/ushuaiatv.png" group-title="France",Ushuaïa TV HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/4491.ts
+#EXTINF:-1 tvg-id="PlanetePlus Action Experience FR" tvg-name="Planete+ Action & Experience FR" tvg-logo="http://secure.clientportal.link/picons/planeteplusae.png" group-title="France",Planete+ Action & Experience FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/2248.ts
+#EXTINF:-1 tvg-id="PlanetePlus Crime Investigation FR" tvg-name="Planete+ Crime & Investigation HD FR" tvg-logo="http://secure.clientportal.link/picons/planeteplusci.png" group-title="France",Planete+ Crime & Investigation HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/2249.ts
+#EXTINF:-1 tvg-id="Science Vie TV FR" tvg-name="Science & Vie TV FR" tvg-logo="http://secure.clientportal.link/picons/scienceetvietv.png" group-title="France",Science & Vie TV FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/7799.ts
+#EXTINF:-1 tvg-id="Toute lhistoire FR" tvg-name="Toute l'Histoire FR" tvg-logo="http://secure.clientportal.link/picons/toutelhistoire.png" group-title="France",Toute l'Histoire FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/7798.ts
+#EXTINF:-1 tvg-id="Voyage HD FR" tvg-name="Voyage HD FR" tvg-logo="http://secure.clientportal.link/picons/voyage.png" group-title="France",Voyage HD FR
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/13167.ts
+
+
+--------------------------------------english------------------------
+
+
+#EXTINF:-1 tvg-id="Discovery UK" tvg-name="Discovery Channel UK" tvg-logo="http://secure.clientportal.link/picons/discoverychannel.png" group-title="United Kingdom",Discovery Channel UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/1986.ts
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History UK" tvg-logo="http://secure.clientportal.link/picons/discoveryhistory.png" group-title="United Kingdom",Discovery History UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/1985.ts
+#EXTINF:-1 tvg-id="Investigation Discovery UK" tvg-name="Discovery Investigation UK" tvg-logo="http://secure.clientportal.link/picons/discoveryinvestigation.png" group-title="United Kingdom",Discovery Investigation UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/3982.ts
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science UK" tvg-logo="http://secure.clientportal.link/picons/discoveryscience.png" group-title="United Kingdom",Discovery Science UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/2679.ts
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science  UK" tvg-logo="http://secure.clientportal.link/picons/discoverysciencehd.png" group-title="United Kingdom",Discovery Science  UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/4069.ts
+#EXTINF:-1 tvg-id="Discovery Turbo UK" tvg-name="Discovery Turbo UK" tvg-logo="http://secure.clientportal.link/picons/discoveryturbo.png" group-title="United Kingdom",Discovery Turbo UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/3978.ts
+#EXTINF:-1 tvg-id="Discovery UK" tvg-name="Discovery World UK" tvg-logo="http://secure.clientportal.link/picons/discoveryworld.png" group-title="United Kingdom",Discovery World UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/2678.ts
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX UK" tvg-logo="http://secure.clientportal.link/picons/dmax.png" group-title="United Kingdom",DMAX UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/1983.ts
+#EXTINF:-1 tvg-id="HISTORY UK" tvg-name="History UK" tvg-logo="http://secure.clientportal.link/picons/history.png" group-title="United Kingdom",History UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/3976.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild UK" tvg-name="Nat Geo Wild UK" tvg-logo="http://secure.clientportal.link/picons/natgeowild.png" group-title="United Kingdom",Nat Geo Wild UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/1968.t
+#EXTINF:-1 tvg-id="National Geographic UK" tvg-name="National Geographic UK" tvg-logo="http://secure.clientportal.link/picons/nationalgeographicchannel.png" group-title="United Kingdom",National Geographic UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/3561.ts
+#EXTINF:-1 tvg-id="QUEST UK" tvg-name="QUEST UK" tvg-logo="http://secure.clientportal.link/picons/quest.png" group-title="United Kingdom",QUEST UK
+http://clientportal.link:8080/live/wwSzyn7KYO/1miTjT1j6v/3959.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
