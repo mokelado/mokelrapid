@@ -1,0 +1,746 @@
+﻿#EXTM3U
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Discovery Channel DE" tvg-name="Discovery Channel FHD DE" tvg-logo="http://picon.space/discoverychannelhd.png" group-title="Doku  DE",Discovery Channel FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14063.ts
+#EXTINF:-1 tvg-id="Discovery Channel DE" tvg-name="Discovery Channel HD DE" tvg-logo="http://picon.space/discoverychannelhd.png" group-title="Doku  DE",Discovery Channel HD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3426.ts
+#EXTINF:-1 tvg-id="DMAX DE" tvg-name="DMAX DE" tvg-logo="http://picon.space/dmax.png" group-title="Doku  DE",DMAX DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3431.ts
+#EXTINF:-1 tvg-id="History DE" tvg-name="History DE" tvg-logo="http://picon.space/history.png" group-title="Doku  DE",History DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3424.ts
+#EXTINF:-1 tvg-id="History DE" tvg-name="History FHD DE" tvg-logo="http://picon.space/historyhd.png" group-title="Doku  DE",History FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14311.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD DE" tvg-name="Nat Geo Wild FHD DE" tvg-logo="http://picon.space/natgeowildhd.png" group-title="Doku  DE",Nat Geo Wild FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14062.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD DE" tvg-name="National Geographic Wild HD DE" tvg-logo="http://picon.space/natgeowildhd.png" group-title="Doku  DE",National Geographic Wild HD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1646.ts
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geographic DE" tvg-logo="http://picon.space/nationalgeo.png" group-title="Doku  DE",National Geographic DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3419.ts
+#EXTINF:-1 tvg-id="National Geographic DE" tvg-name="National Geographic FHD DE" tvg-logo="http://picon.space/nationalgeographichd.png" group-title="Doku  DE",National Geographic FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14053.ts
+#EXTINF:-1 tvg-id="SPIEGEL Geschichte DE" tvg-name="SPIEGEL Geschichte DE" tvg-logo="http://picon.space/spiegelgeschichte.png" group-title="Doku  DE",SPIEGEL Geschichte DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3621.ts
+#EXTINF:-1 tvg-id="SPIEGEL TV Wissen HD 1080P DE" tvg-name="SPIEGEL TV Wissen FHD DE" tvg-logo="http://picon.space/spiegeltvwissen.png" group-title="Doku  DE",SPIEGEL TV Wissen FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14045.ts
+#EXTINF:-1 tvg-id="Welt der Wunder DE" tvg-name="Welt der Wunder DE" tvg-logo="http://picon.space/weltderwunder.png" group-title="Doku  DE",Welt der Wunder DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/12305.ts
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic People HD DE" tvg-logo="http://picon.space/natgeopeoplehd.png" group-title="Doku  DE",National Geographic People HD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16802.ts
+#EXTINF:-1 tvg-id="SPIEGEL Geschichte DE" tvg-name="SPIEGEL Geschichte FHD DE" tvg-logo="http://picon.space/spiegeltvwissenhd.png" group-title="Doku  DE",SPIEGEL Geschichte FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16573.ts
+
+
+#EXTINF:-1 tvg-id="ANIMAL PLANET DE" tvg-name="Animal Planet HD DE" tvg-logo="http://picon.space/animalplanethd.png" group-title="Doku  DE",Animal Planet HD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/9561.ts
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Discovery Channel HD FR" tvg-name="Discovery Channel HD FR" tvg-logo="http://picon.space/discoverychannel.png" group-title="Doku FR",Discovery Channel HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7579.ts
+#EXTINF:-1 tvg-id="Discovery Science HD FR" tvg-name="Discovery Science HD FR" tvg-logo="http://picon.space/discoveryscience.png" group-title="Doku FR",Discovery Science HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8ImideRiNo70/WFifjA161/7578.ts
+#EXTINF:-1 tvg-id="histoire FR" tvg-name="Histoire HD FR" tvg-logo="http://picon.space/histoire.png" group-title="Doku FR",Histoire HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13166.ts
+#EXTINF:-1 tvg-id="NAT GEO WILD HD FR" tvg-name="National Geographic Wild HD FR" tvg-logo="http://picon.space/natgeowild.png" group-title="Doku FR",National Geographic Wild HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3606.ts
+#EXTINF:-1 tvg-id="National Geographic FR" tvg-name="National Geographic FR" tvg-logo="http://picon.space/nationalgeo.png" group-title="Doku FR",National Geographic FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/4467.ts
+#EXTINF:-1 tvg-id="Planète+ Action & Experience FR" tvg-name="Planète+ Action & Expérience FR" tvg-logo="http://picon.space/planeteplusaande.png" group-title="Doku FR",Planète+ Action & Expérience FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/2248.ts
+#EXTINF:-1 tvg-id="Planète+ Action & Experience HD FR" tvg-name="Planète+ Action & Experience HD FR" tvg-logo="http://picon.space/planeteplusaande.png" group-title="Doku FR",Planète+ Action & Experience HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13124.ts
+#EXTINF:-1 tvg-id="Planète+ Crime Investigation HD 1080P FR" tvg-name="Planète+ Crime Investigation FHD FR" tvg-logo="http://picon.space/planeteplusci.png" group-title="Doku FR",Planète+ Crime Investigation FHD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15639.ts
+#EXTINF:-1 tvg-id="Planète+ Crime Investigation HD FR" tvg-name="Planète+ Crime Investigation HD FR" tvg-logo="http://picon.space/planeteplusci.png" group-title="Doku FR",Planète+ Crime Investigation HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/2249.ts
+#EXTINF:-1 tvg-id="Planète+ HD FR" tvg-name="Planète+ FHD FR" tvg-logo="http://picon.space/planeteplushd.png" group-title="Doku FR",Planète+ FHD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/2247.ts
+#EXTINF:-1 tvg-id="RMC DECOUVERTE FR" tvg-name="RMC Découverte HD FR" tvg-logo="http://picon.space/rmcdecouverte.png" group-title="Doku FR",RMC Découverte HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13157.ts
+#EXTINF:-1 tvg-id="Science & Vie TV FR" tvg-name="Science & Vie TV FR" tvg-logo="http://picon.space/scienceetvie.png" group-title="Doku FR",Science & Vie TV FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7799.ts
+#EXTINF:-1 tvg-id="Science & Vie TV HD FR" tvg-name="Science & Vie TV HD FR" tvg-logo="http://picon.space/scienceetvie.png" group-title="Doku FR",Science & Vie TV HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13115.ts
+#EXTINF:-1 tvg-id="Toute l'Histoire FR" tvg-name="Toute l'histoire FR" tvg-logo="http://picon.space/toutelhistoire.png" group-title="Doku FR",Toute l'histoire FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7798.ts
+#EXTINF:-1 tvg-id="Trek HD FR" tvg-name="Trek HD FR" tvg-logo="http://picon.space/trek.png" group-title="Doku FR",Trek HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13185.ts
+#EXTINF:-1 tvg-id="Ushuaïa TV HD FR" tvg-name="Ushuaïa TV HD FR" tvg-logo="http://picon.space/ushuaiatv.png" group-title="Doku FR",Ushuaïa TV HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/4491.ts
+#EXTINF:-1 tvg-id="voyage FR" tvg-name="Voyage HD FR" tvg-logo="http://picon.space/voyage.png" group-title="Doku FR",Voyage HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13167.ts
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Crime Investigation UK" tvg-name="Crime + Investigation UK" tvg-logo="http://picon.space/crimeplusinvestigation.png" group-title="Doku UK",Crime + Investigation UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14943.ts
+#EXTINF:-1 tvg-id="DMAX +1 UK" tvg-name="DMAX +1 UK" tvg-logo="http://picon.space/dmaxplus1.png" group-title="Doku UK",DMAX +1 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14840.ts
+#EXTINF:-1 tvg-id="DMAX UK" tvg-name="DMAX UK" tvg-logo="http://picon.space/dmax.png" group-title="Doku UK",DMAX UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1983.ts
+#EXTINF:-1 tvg-id="Disc Science +1 UK" tvg-name="Discovery Science +1 UK" tvg-logo="http://picon.space/discoveryscienceplus1.png" group-title="Doku UK",Discovery Science +1 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14842.ts
+#EXTINF:-1 tvg-id="Discovery +1 UK" tvg-name="Discovery +1 UK" tvg-logo="http://picon.space/discoveryplus1.png" group-title="Doku UK",Discovery +1 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14770.ts
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD UK" tvg-logo="http://picon.space/discoverychannelhd.png" group-title="Doku UK",Discovery Channel HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14863.ts
+#EXTINF:-1 tvg-id="Discovery Channel UK" tvg-name="Discovery Channel UK" tvg-logo="http://picon.space/discoverychannel.png" group-title="Doku UK",Discovery Channel UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1986.ts
+#EXTINF:-1 tvg-id="Discovery History +1 UK" tvg-name="Discovery History +1 UK" tvg-logo="http://picon.space/discoveryhistoryplus1.png" group-title="Doku UK",Discovery History +1 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14843.ts
+#EXTINF:-1 tvg-id="Discovery History UK" tvg-name="Discovery History UK" tvg-logo="http://picon.space/discoveryhistory.png" group-title="Doku UK",Discovery History UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1985.ts
+#EXTINF:-1 tvg-id="Discovery Home&Health UK" tvg-name="Discovery Home & Health UK" tvg-logo="http://picon.space/discoveryhomeandhealth.png" group-title="Doku UK",Discovery Home & Health UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14833.ts
+#EXTINF:-1 tvg-id="Discovery Investigation UK" tvg-name="Investigation Discovery UK" tvg-logo="http://picon.space/investigationdiscovery.png" group-title="Doku UK",Investigation Discovery UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3982.ts
+#EXTINF:-1 tvg-id="Discovery Ireland UK" tvg-name="Discovery Channel Ireland UK" tvg-logo="http://picon.space/discoverychannel.png" group-title="Doku UK",Discovery Channel Ireland UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14769.ts
+#EXTINF:-1 tvg-id="Discovery Science UK" tvg-name="Discovery Science UK" tvg-logo="http://picon.space/discoveryscience.png" group-title="Doku UK",Discovery Science UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/2679.ts
+#EXTINF:-1 tvg-id="Discovery Shed UK" tvg-name="Discovery Shed UK" tvg-logo="http://picon.space/discoveryshed.png" group-title="Doku UK",Discovery Shed UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14841.ts
+#EXTINF:-1 tvg-id="Discovery Turbo UK" tvg-name="Discovery Turbo UK" tvg-logo="http://picon.space/discoveryturbo.png" group-title="Doku UK",Discovery Turbo UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3978.ts
+#EXTINF:-1 tvg-id="Discovery World UK" tvg-name="Discovery World UK" tvg-logo="http://picon.space/discoveryworld.png" group-title="Doku UK",Discovery World UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/2678.ts
+#EXTINF:-1 tvg-id="National Geographic Channel UK" tvg-name="National Geographic UK" tvg-logo="http://picon.space/nationalgeographic.png" group-title="Doku UK",National Geographic UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3561.ts
+#EXTINF:-1 tvg-id="Nat Geo Wild UK" tvg-name="National Geographic Wild HD UK" tvg-logo="http://picon.space/natgeowildhd.png" group-title="Doku UK",National Geographic Wild HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1968.ts
+#EXTINF:-1 tvg-id="Travel Channel +1 UK" tvg-name="Travel Channel +1 UK" tvg-logo="http://picon.space/travelchannelplus1.png" group-title="Doku UK",Travel Channel +1 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14784.ts
+#EXTINF:-1 tvg-id="Travel Channel UK" tvg-name="Travel Channel UK" tvg-logo="http://picon.space/travelchannel.png" group-title="Doku UK",Travel Channel UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14818.ts
+#EXTINF:-1 tvg-id="Animal Planet +1 UK" tvg-name="Animal Planet +1 UK" tvg-logo="http://picon.space/animalplanet.png" group-title="Doku UK",Animal Planet +1 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14850.ts
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet HD UK" tvg-logo="http://picon.space/animalplanethd.png" group-title="Doku UK",Animal Planet HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/8010.ts
+#EXTINF:-1 tvg-id="Animal Planet UK" tvg-name="Animal Planet UK" tvg-logo="http://picon.space/animalplanet.png" group-title="Doku UK",Animal Planet UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/2683.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera Documentary QA" tvg-logo="http://picon.space/aljazeeradocumentaryarb.png" group-title="Doku  OSN",Aljazeera Documentary QA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/10355.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Abu Dhabi AE" tvg-logo="http://picon.space/nationalgeographichd.png" group-title="Doku  OSN ",National Geographic Abu Dhabi AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/12892.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Family Channel AE" tvg-logo="http://picon.space/discoveryfamilyarb.png" group-title="Doku  OSN",OSN Discovery Family Channel AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/5747.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Investigation Discovery Xtra HD AE" tvg-logo="http://picon.space/investigationdiscoveryhd.png" group-title="Doku  OSN",OSN Investigation Discovery Xtra HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13722.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Discovery Science HD AE" tvg-logo="http://picon.space/discoverysciencehd.png" group-title="Doku  OSN",OSN Discovery Science HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/12848.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN History Channel HD AE" tvg-logo="http://picon.space/historyhd.png" group-title="Doku  OSN",OSN History Channel HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/12842.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN National Geographic People HD AE" tvg-logo="http://picon.space/natgeopeoplehd.png" group-title="Doku  OSN",OSN National Geographic People HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/12828.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN National Geographic Wild HD AE" tvg-logo="http://picon.space/natgeowildhd.png" group-title="Doku  OSN",OSN National Geographic Wild HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/12829.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN National Geographic HD AE" tvg-logo="http://picon.space/nationalgeographichd.png" group-title="Doku  OSN",OSN National Geographic HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13717.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="OSN Animal Planet AE" tvg-logo="http://picon.space/animalplanethd.png" group-title="Doku  OSN",OSN Animal Planet AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/5751.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MySports FHD CH" tvg-logo="" group-title="SPORT  CH",MySports FHD CH
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17483.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 1 FHD CH" tvg-logo="" group-title="SPORT  CH",MySports 1 FHD CH
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17484.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 2 FHD CH" tvg-logo="" group-title="SPORT  CH",MySports 2 FHD CH
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17485.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 3 FHD CH" tvg-logo="" group-title="SPORT  CH",MySports 3 FHD CH
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17486.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 4 FHD CH" tvg-logo="" group-title="SPORT  CH",MySports 4 FHD CH
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17487.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 5 FHD CH" tvg-logo="" group-title="SPORT  CH",MySports 5 FHD CH
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17488.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 6 FHD CH" tvg-logo="" group-title="SPORT  CH",MySports 6 FHD CH
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17489.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports FHD FR" tvg-logo="" group-title="SPORT  CH",MySports FHD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17490.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 1 FHD FR" tvg-logo="" group-title="SPORT  CH",MySports 1 FHD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17491.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 2 FHD FR" tvg-logo="" group-title="SPORT  CH",MySports 2 FHD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17492.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 3 FHD FR" tvg-logo="" group-title="SPORT  CH",MySports 3 FHD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17493.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 4 FHD FR" tvg-logo="" group-title="SPORT  CH",MySports 4 FHD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17494.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 5 FHD FR" tvg-logo="" group-title="SPORT  CH",MySports 5 FHD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17495.ts
+#EXTINF:-1 tvg-id="" tvg-name="MySports 6 FHD FR" tvg-logo="" group-title="SPORT  CH",MySports 6 FHD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17496.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS News HD ARB" tvg-logo="http://picon.space/beinsportsnewsarb.png" group-title="beIN SPORT",beIN SPORTS News HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17038.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS News SD ARB" tvg-logo="http://picon.space/beinsportsnewsarb.png" group-title="beIN SPORT",beIN SPORTS News SD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17039.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD ARB" tvg-logo="http://picon.space/beinsport1hd.png" group-title="beIN SPORT",beIN SPORTS 1 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14980.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 SD ARB" tvg-logo="http://picon.space/beinsport1hd.png" group-title="beIN SPORT",beIN SPORTS 1 SD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14981.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD ARB" tvg-logo="http://picon.space/beinsports2hd.png" group-title="beIN SPORT",beIN SPORTS 2 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14982.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 SD ARB" tvg-logo="http://picon.space/beinsports2hd.png" group-title="beIN SPORT",beIN SPORTS 2 SD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14983.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD ARB" tvg-logo="http://picon.space/beinsports3hd.png" group-title="beIN SPORT",beIN SPORTS 3 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14984.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 SD ARB" tvg-logo="http://picon.space/beinsports3hd.png" group-title="beIN SPORT",beIN SPORTS 3 SD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14985.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 HD ARB" tvg-logo="http://picon.space/beinsport4hd.png" group-title="beIN SPORT",beIN SPORTS 4 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14986.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 SD ARB" tvg-logo="http://picon.space/beinsport4hd.png" group-title="beIN SPORT",beIN SPORTS 4 SD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14987.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 HD ARB" tvg-logo="http://picon.space/beinsport5.png" group-title="beIN SPORT",beIN SPORTS 5 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14988.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 5 SD ARB" tvg-logo="http://picon.space/beinsport5.png" group-title="beIN SPORT",beIN SPORTS 5 SD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14989.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 HD ARB" tvg-logo="http://picon.space/beinsport6.png" group-title="beIN SPORT",beIN SPORTS 6 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14990.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 6 SD ARB" tvg-logo="http://picon.space/beinsport6.png" group-title="beIN SPORT",beIN SPORTS 6 SD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14991.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 HD ARB" tvg-logo="http://picon.space/beinsport7.png" group-title="beIN SPORT",beIN SPORTS 7 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14992.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 7 SD ARB" tvg-logo="http://picon.space/beinsport7.png" group-title="beIN SPORT",beIN SPORTS 7 SD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14993.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 HD ARB" tvg-logo="http://picon.space/beinsports8.png" group-title="beIN SPORT",beIN SPORTS 8 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14994.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 8 SD ARB" tvg-logo="http://picon.space/beinsports8.png" group-title="beIN SPORT",beIN SPORTS 8 SD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14995.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 HD ARB" tvg-logo="http://picon.space/beinsport9.png" group-title="beIN SPORT",beIN SPORTS 9 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14996.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 9 SD ARB" tvg-logo="http://picon.space/beinsport9.png" group-title="beIN SPORT",beIN SPORTS 9 SD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14997.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 10 HD ARB" tvg-logo="http://picon.space/beinsport10.png" group-title="beIN SPORT",beIN SPORTS 10 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14998.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 10 SD ARB" tvg-logo="http://picon.space/beinsport10.png" group-title="beIN SPORT",beIN SPORTS 10 SD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14999.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 11 HD ARB" tvg-logo="http://picon.space/beinsport11.png" group-title="beIN SPORT",beIN SPORTS 11 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15000.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 12 HD ARB" tvg-logo="http://picon.space/beinsport12.png" group-title="beIN SPORT",beIN SPORTS 12 HD ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15001.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD FR" tvg-logo="http://picon.space/beinsport1hd.png" group-title="beIN SPORT",beIN SPORTS 1 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14977.ts
+#EXTINF:-1 tvg-id="BeIN Sport 1 FR" tvg-name="beIN SPORTS 1 HD FR" tvg-logo="http://picon.space/beinsport11.png" group-title="beIN SPORT",beIN SPORTS 1 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/5522.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="http://picon.space/beinsports2hd.png" group-title="beIN SPORT",beIN SPORTS 2 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14978.ts
+#EXTINF:-1 tvg-id="BeIN Sport 2 FR" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="http://picon.space/beinsports2hd.png" group-title="beIN SPORT",beIN SPORTS 2 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3609.ts
+#EXTINF:-1 tvg-id="beIN Sports 2 HD 1080P FR" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="http://picon.space/beinsports2hd.png" group-title="beIN SPORT",beIN SPORTS 2 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15637.ts
+#EXTINF:-1 tvg-id="beIN Sport 3 HD FR" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="http://picon.space/beinsports3hd.png" group-title="beIN SPORT",beIN SPORTS 3 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/4477.ts
+#EXTINF:-1 tvg-id="beIN Sports 3 HD 1080P FR" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="http://picon.space/beinsports3hd.png" group-title="beIN SPORT",beIN SPORTS 3 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15282.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="http://picon.space/beinsports3hd.png" group-title="beIN SPORT",beIN SPORTS 3 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14979.ts
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 1 HD AE" tvg-logo="http://picon.space/adsports1arb.png" group-title="Arab Sport",Abu Dhabi Sports 1 HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16435.ts
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 2 HD AE" tvg-logo="http://picon.space/adsports2arb.png" group-title="Arab Sport",Abu Dhabi Sports 2 HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16436.ts
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 3 HD AE" tvg-logo="http://picon.space/adsports3arb.png" group-title="Arab Sport",Abu Dhabi Sports 3 HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 4 HD AE" tvg-logo="http://picon.space/adsports4arb.png" group-title="Arab Sport",Abu Dhabi Sports 4 HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13725.ts
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sports 5 HD AE" tvg-logo="http://picon.space/adsports5arb.png" group-title="Arab Sport",Abu Dhabi Sports 5 HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13726.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Sports Cricket HD AE" tvg-logo="http://picon.space/osnsportscrickethdarb.png" group-title="Arab Sport",OSN Sports Cricket HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13720.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Sports 1 HD AE" tvg-logo="http://picon.space/osnsports1arb.png" group-title="Arab Sport",OSN Sports 1 HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13728.ts
+#EXTINF:-1 tvg-id="OSN Sports 2 HD ARB" tvg-name="OSN Sports 2 HD AE" tvg-logo="http://picon.space/osnsports2arb.png" group-title="Arab Sport",OSN Sports 2 HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13729.ts
+#EXTINF:-1 tvg-id="" tvg-name="OSN Sports 3 HD AE" tvg-logo="http://picon.space/osnsports3arb.png" group-title="Arab Sport",OSN Sports 3 HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13730.ts
+#EXTINF:-1 tvg-id="OSN Sports 4 HD ARB" tvg-name="OSN Sports 4 HD AE" tvg-logo="http://picon.space/osnsports4arb.png" group-title="Arab Sport",OSN Sports 4 HD AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13731.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC Pro Sports 3 ARB" tvg-logo="http://picon.space/mbcprosports3.png" group-title="Arab Sport",MBC Pro Sports 3 ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15122.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC Pro Sports 4 ARB" tvg-logo="http://picon.space/mbcprosports4.png" group-title="Arab Sport",MBC Pro Sports 4 ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15123.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC Pro Sports 1 ARB" tvg-logo="http://picon.space/mbcprosports1.png" group-title="Arab Sport",MBC Pro Sports 1 ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic815120.ts
+#EXTINF:-1 tvg-id="" tvg-name="MBC Pro Sports 2 ARB" tvg-logo="http://picon.space/mbcprosports2.png" group-title="Arab Sport",MBC Pro Sports 2 ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15121.ts
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD FR" tvg-name="Eurosport 1 HD FR" tvg-logo="http://picon.space/eurosport1hd.png" group-title="FR  SPORT",Eurosport 1 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/2013.ts
+#EXTINF:-1 tvg-id="Eurosport 2 [HD] FR" tvg-name="Eurosport 2 HD FR" tvg-logo="http://picon.space/eurosport2hd.png" group-title="FR  SPORT",Eurosport 2 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7572.ts
+#EXTINF:-1 tvg-id="Infosport+ FR" tvg-name="Infosport+ HD FR" tvg-logo="http://picon.space/infosportplus.png" group-title="FR  SPORT",Infosport+ HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7571.ts
+#EXTINF:-1 tvg-id="L'Equipe 21 FR" tvg-name="L'Equipe 21 FR" tvg-logo="http://picon.space/lequipe21.png" group-title="FR  SPORT",L'Equipe 21 FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/4468.ts
+#EXTINF:-1 tvg-id="SFR Sport 1 FR" tvg-name="SFR Sport 1 HD FR" tvg-logo="http://picon.space/sfrsport1.png" group-title="FR  SPORT",SFR Sport 1 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13182.ts
+#EXTINF:-1 tvg-id="SFR Sport 2 FR" tvg-name="SFR Sport 2 HD FR" tvg-logo="http://picon.space/sfrsport2.png" group-title="FR  SPORT",SFR Sport 2 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/2251.ts
+#EXTINF:-1 tvg-id="SFR Sport 3 FR" tvg-name="SFR Sport 3 HD FR" tvg-logo="http://picon.space/sfrsport3.png" group-title="FR  SPORT",SFR Sport 3 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13148.ts
+#EXTINF:-1 tvg-id="SFR Sport 5 FR" tvg-name="SFR Sport 5 HD FR" tvg-logo="http://picon.space/sfrsport5.png" group-title="FR  SPORT",SFR Sport 5 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13151.ts
+#EXTINF:-1 tvg-id="Motors TV HD FR" tvg-name="Motorsport TV FR" tvg-logo="http://picon.space/motorsporttv.png" group-title="FR  SPORT",Motorsport TV FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3252.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 HD FR" tvg-logo="http://picon.space/beinsport1hd.png" group-title="FR  SPORT",beIN SPORTS 1 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14977.ts
+#EXTINF:-1 tvg-id="BeIN Sport 1 FR" tvg-name="beIN SPORTS 1 HD FR" tvg-logo="http://picon.space/beinsport11.png" group-title="FR  SPORT",beIN SPORTS 1 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/5522.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="http://picon.space/beinsports2hd.png" group-title="FR  SPORT",beIN SPORTS 2 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14978.ts
+#EXTINF:-1 tvg-id="BeIN Sport 2 FR" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="http://picon.space/beinsports2hd.png" group-title="FR  SPORT",beIN SPORTS 2 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3609.ts
+#EXTINF:-1 tvg-id="beIN Sports 2 HD 1080P FR" tvg-name="beIN SPORTS 2 HD FR" tvg-logo="http://picon.space/beinsports2hd.png" group-title="FR  SPORT",beIN SPORTS 2 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15637.ts
+#EXTINF:-1 tvg-id="beIN Sport 3 HD FR" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="http://picon.space/beinsports3hd.png" group-title="FR  SPORT",beIN SPORTS 3 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/4477.ts
+#EXTINF:-1 tvg-id="beIN Sports 3 HD 1080P FR" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="http://picon.space/beinsports3hd.png" group-title="FR  SPORT",beIN SPORTS 3 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15282.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 HD FR" tvg-logo="http://picon.space/beinsports3hd.png" group-title="FR  SPORT",beIN SPORTS 3 HD FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14979.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="Sky Sport News HD DE" tvg-name="Sky Sport News DE" tvg-logo="http://picon.space/skysportnews.png" group-title="DE  SPORT",Sky Sport News DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14577.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport News HD VIP DE" tvg-logo="http://picon.space/skysportnewshd.png" group-title="DE  SPORT",Sky Sport News HD VIP DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7337.ts
+
+
+#EXTINF:-1 tvg-id="Sky SPORT 1 DE" tvg-name="Sky Sport 1 DE" tvg-logo="http://picon.space/skysport1.png" group-title="DE  SPORT",Sky Sport 1 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14559.ts
+#EXTINF:-1 tvg-id="Sky SPORT 1 DE" tvg-name="Sky Sport 1 HD DE" tvg-logo="http://picon.space/skysport1hd.png" group-title="DE  SPORT",Sky Sport 1 HD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1479.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1 FHD DE" tvg-logo="http://picon.space/skysport1hd.png" group-title="DE  SPORT",Sky Sport 1 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7326.ts
+
+#EXTINF:-1 tvg-id="Sky SPORT 2 DE" tvg-name="Sky Sport 2 DE" tvg-logo="http://picon.space/skysport2.png" group-title="DE  SPORT",Sky Sport 2 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14560.ts
+#EXTINF:-1 tvg-id="Sky SPORT 2 DE" tvg-name="Sky Sport 2 HD DE" tvg-logo="http://picon.space/skysport2hd.png" group-title="DE  SPORT",Sky Sport 2 HD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1480.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2 FHD DE" tvg-logo="http://picon.space/skysport2hd.png" group-title="DE  SPORT",Sky Sport 2 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7327.ts
+#EXTINF:-1 tvg-id="Sky Sport 3 DE" tvg-name="Sky Sport 3 DE" tvg-logo="http://picon.space/skysport3.png" group-title="DE  SPORT",Sky Sport 3 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14561.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 3 FHD DE" tvg-logo="http://picon.space/skysport3hd.png" group-title="DE  SPORT",Sky Sport 3 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7328.ts
+#EXTINF:-1 tvg-id="Sky Sport 4 DE" tvg-name="Sky Sport 4 DE" tvg-logo="http://picon.space/skysport4.png" group-title="DE  SPORT",Sky Sport 4 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14562.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 4 FHD DE" tvg-logo="http://picon.space/skysport4hd.png" group-title="DE  SPORT",Sky Sport 4 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7329.ts
+#EXTINF:-1 tvg-id="Sky Sport 5 DE" tvg-name="Sky Sport 5 DE" tvg-logo="http://picon.space/skysport5.png" group-title="DE  SPORT",Sky Sport 5 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14563.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 5 FHD DE" tvg-logo="http://picon.space/skysport5hd.png" group-title="DE  SPORT",Sky Sport 5 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7330.ts
+#EXTINF:-1 tvg-id="Sky Sport 6 DE" tvg-name="Sky Sport 6 DE" tvg-logo="http://picon.space/skysport6.png" group-title="DE  SPORT",Sky Sport 6 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14564.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 6 FHD DE" tvg-logo="http://picon.space/skysport6hd.png" group-title="DE  SPORT",Sky Sport 6 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7331.ts
+#EXTINF:-1 tvg-id="Sky Sport 7 DE" tvg-name="Sky Sport 7 DE" tvg-logo="http://picon.space/skysport7.png" group-title="DE  SPORT",Sky Sport 7 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14565.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 7 FHD DE" tvg-logo="http://picon.space/skysport7hd.png" group-title="DE  SPORT",Sky Sport 7 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7332.ts
+#EXTINF:-1 tvg-id="Sky Sport 8 DE" tvg-name="Sky Sport 8 DE" tvg-logo="http://picon.space/skysport8.png" group-title="DE  SPORT",Sky Sport 8 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 8 FHD DE" tvg-logo="http://picon.space/skysport8hd.png" group-title="DE  SPORT",Sky Sport 8 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7333.ts
+#EXTINF:-1 tvg-id="Sky Sport 9 DE" tvg-name="Sky Sport 9 DE" tvg-logo="http://picon.space/skysport9.png" group-title="DE  SPORT",Sky Sport 9 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14567.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 9 FHD DE" tvg-logo="http://picon.space/skysport9hd.png" group-title="DE  SPORT",Sky Sport 9 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7334.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 10 FHD DE" tvg-logo="http://picon.space/skysport10hd.png" group-title="DE  SPORT",Sky Sport 10 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7335.ts
+#EXTINF:-1 tvg-id="Sky Sport 11 DE" tvg-name="Sky Sport 11 HD DE" tvg-logo="http://picon.space/skysport11hd.png" group-title="DE  SPORT",Sky Sport 11 HD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7336.ts
+#EXTINF:-1 tvg-id="Sky Sport Austria HD DE" tvg-name="Sky Sport Austria DE" tvg-logo="http://picon.space/skysportaustria.png" group-title="DE  SPORT",Sky Sport Austria DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/9551.ts
+#EXTINF:-1 tvg-id="Sky Sport Austria HD DE" tvg-name="Sky Sport Austria HD DE" tvg-logo="http://picon.space/skysportaustriahd.png" group-title="DE  SPORT",Sky Sport Austria HD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15578.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD DE" tvg-name="Sky Sport Bundesliga 1 DE" tvg-logo="http://picon.space/skysportbundesliga1.png" group-title="DE  SPORT",Sky Sport Bundesliga 1 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14550.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 1 HD DE" tvg-name="Sky Sport Bundesliga 1 HD DE" tvg-logo="http://picon.space/skysportbundesliga1hd.png" group-title="DE  SPORT",Sky Sport Bundesliga 1 HD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3436.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 1 FHD DE" tvg-logo="http://picon.space/skysportbundesliga1hd.png" group-title="DE  SPORT",Sky Sport Bundesliga 1 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7338.ts
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 2 HD DE" tvg-name="Sky Sport Bundesliga 2 DE" tvg-logo="http://picon.space/skysportbundesliga2.png" group-title="DE  SPORT",Sky Sport Bundesliga 2 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14551.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 2 FHD DE" tvg-logo="http://picon.space/skysportbundesliga2hd.png" group-title="DE  SPORT",Sky Sport Bundesliga 2 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7339.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 3 HD DE" tvg-name="Sky Sport Bundesliga 3 DE" tvg-logo="http://picon.space/skysportbundesliga3.png" group-title="DE  SPORT",Sky Sport Bundesliga 3 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14552.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 3 FHD DE" tvg-logo="http://picon.space/skysportbundesliga3hd.png" group-title="DE  SPORT",Sky Sport Bundesliga 3 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7340.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 4 HD DE" tvg-name="Sky Sport Bundesliga 4 DE" tvg-logo="http://picon.space/skysportbundesliga4.png" group-title="DE  SPORT",Sky Sport Bundesliga 4 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14553.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 4 FHD DE" tvg-logo="http://picon.space/skysportbundesliga4hd.png" group-title="DE  SPORT",Sky Sport Bundesliga 4 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7341.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 5 DE" tvg-name="Sky Sport Bundesliga 5 DE" tvg-logo="http://picon.space/skysportbundesliga5.png" group-title="DE  SPORT",Sky Sport Bundesliga 5 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14554.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 5 FHD DE" tvg-logo="http://picon.space/skysportbundesliga5hd.png" group-title="DE  SPORT",Sky Sport Bundesliga 5 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7342.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 DE" tvg-name="Sky Sport Bundesliga 6 DE" tvg-logo="http://picon.space/skysportbundesliga6.png" group-title="DE  SPORT",Sky Sport Bundesliga 6 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14555.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 6 FHD DE" tvg-logo="http://picon.space/skysportbundesliga6hd.png" group-title="DE  SPORT",Sky Sport Bundesliga 6 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7343.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 7 FHD DE" tvg-logo="http://picon.space/skysportbundesliga7hd.png" group-title="DE  SPORT",Sky Sport Bundesliga 7 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7344.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8 DE" tvg-name="Sky Sport Bundesliga 8 DE" tvg-logo="http://picon.space/skysportbundesliga8.png" group-title="DE  SPORT",Sky Sport Bundesliga 8 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14556.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 8 FHD DE" tvg-logo="http://picon.space/skysportbundesliga8hd.png" group-title="DE  SPORT",Sky Sport Bundesliga 8 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7345.ts
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9 DE" tvg-name="Sky Sport Bundesliga 9 DE" tvg-logo="http://picon.space/skysportbundesliga9.png" group-title="DE  SPORT",Sky Sport Bundesliga 9 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14557.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 9 FHD DE" tvg-logo="http://picon.space/skysportbundesliga9hd.png" group-title="DE  SPORT",Sky Sport Bundesliga 9 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7346.ts
+
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 10 HD DE" tvg-name="Sky Sport Bundesliga 10 DE" tvg-logo="http://picon.space/skysportbundesliga10.png" group-title="DE  SPORT",Sky Sport Bundesliga 10 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14558.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga 10 FHD DE" tvg-logo="http://picon.space/skysportbundesliga10hd.png" group-title="DE  SPORT",Sky Sport Bundesliga 10 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/7347.ts
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD DE" tvg-name="Eurosport 1 HD DE" tvg-logo="http://picon.space/eurosport1hd.png" group-title="DE  SPORT",Eurosport 1 HD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3435.ts
+#EXTINF:-1 tvg-id="Eurosport 2 DE" tvg-name="Eurosport 2 DE" tvg-logo="http://picon.space/eurosport2.png" group-title="DE  SPORT",Eurosport 2 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/9553.ts
+#EXTINF:-1 tvg-id="Eurosport 2 DE" tvg-name="Eurosport 2 HD DE" tvg-logo="http://picon.space/eurosport2hd.png" group-title="DE  SPORT",Eurosport 2 HD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15568.ts
+#EXTINF:-1 tvg-id="Motorvision TV DE" tvg-name="Motorvision TV DE" tvg-logo="http://picon.space/motorvisiontv.png" group-title="DE  SPORT",Motorvision TV DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/9564.ts
+#EXTINF:-1 tvg-id="SPORT1 DE" tvg-name="Sport1 DE" tvg-logo="http://picon.space/sport1-duslelaslu.png" group-title="DE  SPORT",Sport1 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/9552.ts
+#EXTINF:-1 tvg-id="SPORT1 DE" tvg-name="SPORT1 FHD DE" tvg-logo="http://picon.space/sport1hd-duslelaslu.png" group-title="DE  SPORT",SPORT1 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15745.ts
+#EXTINF:-1 tvg-id="sportdigital DE" tvg-name="sportdigital DE" tvg-logo="http://picon.space/sportdigital.png" group-title="DE  SPORT",sportdigital DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3841.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sportdigital FHD DE" tvg-logo="http://picon.space/sportdigitalhd.png" group-title="DE  SPORT",Sportdigital FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16582.ts
+#EXTINF:-1 tvg-id="" tvg-name="FC Bayern FHD DE" tvg-logo="http://picon.space/fcbde.png" group-title="DE  SPORT",FC Bayern FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16767.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="BT SPORTS 1 UK" tvg-name="BT Sport 1 FHD UK" tvg-logo="http://picon.space/btsport1hd.png" group-title="UK  SPORT",BT Sport 1 FHD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14657.ts
+#EXTINF:-1 tvg-id="BT Sport 1 HD UK" tvg-name="BT Sport 1 HD UK" tvg-logo="http://picon.space/btsport1hd.png" group-title="UK  SPORT",BT Sport 1 HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1991.ts
+#EXTINF:-1 tvg-id="BT Sport 1 UK" tvg-name="BT Sport 1 UK" tvg-logo="http://picon.space/btsport1.png" group-title="UK  SPORT",BT Sport 1 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3586.ts
+#EXTINF:-1 tvg-id="BT SPORTS 2 UK" tvg-name="BT Sport 2 FHD UK" tvg-logo="http://picon.space/btsport2hd.png" group-title="UK  SPORT",BT Sport 2 FHD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14658.ts
+#EXTINF:-1 tvg-id="BT Sport 2 HD UK" tvg-name="BT Sport 2 HD UK" tvg-logo="http://picon.space/btsport2hd.png" group-title="UK  SPORT",BT Sport 2 HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1992.ts
+#EXTINF:-1 tvg-id="BT Sport 2 UK" tvg-name="BT Sport 2 UK" tvg-logo="http://picon.space/btsport2.png" group-title="UK  SPORT",BT Sport 2 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3588.ts
+#EXTINF:-1 tvg-id="BT SPORTS 3 UK" tvg-name="BT Sport 3 FHD UK" tvg-logo="http://picon.space/btsport3hd.png" group-title="UK  SPORT",BT Sport 3 FHD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14659.ts
+#EXTINF:-1 tvg-id="BT Sport 3 UK" tvg-name="BT Sport 3 UK" tvg-logo="http://picon.space/btsport3.png" group-title="UK  SPORT",BT Sport 3 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1965.ts
+#EXTINF:-1 tvg-id="BT Sport//ESPN UK" tvg-name="BT Sport ESPN UK" tvg-logo="http://picon.space/btsportespn.png" group-title="UK  SPORT",BT Sport ESPN UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/2673.ts
+#EXTINF:-1 tvg-id="BT Sport//ESPN UK" tvg-name="BT Sport ESPN HD UK" tvg-logo="http://picon.space/btsportespnhd.png" group-title="UK  SPORT",BT Sport ESPN HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1980.ts
+#EXTINF:-1 tvg-id="BT Sport Extra 1  UK" tvg-name="BT Sport Extra 1 UK" tvg-logo="http://picon.space/btsportextra1.png" group-title="UK  SPORT",BT Sport Extra 1 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14778.ts
+#EXTINF:-1 tvg-id="BT Sport Extra 2 UK" tvg-name="BT Sport Extra 2 UK" tvg-logo="http://picon.space/btsportextra2.png" group-title="UK  SPORT",BT Sport Extra 2 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14809.ts
+#EXTINF:-1 tvg-id="BT Sport Extra 3 UK" tvg-name="BT Sport Extra 3 UK" tvg-logo="http://picon.space/btsportextra3.png" group-title="UK  SPORT",BT Sport Extra 3 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14808.ts
+#EXTINF:-1 tvg-id="BT Sport Extra 4 UK" tvg-name="BT Sport Extra 4 UK" tvg-logo="http://picon.space/btsportextra4.png" group-title="UK  SPORT",BT Sport Extra 4 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14807.ts
+#EXTINF:-1 tvg-id="BT Sport Extra 6 UK" tvg-name="BT Sport Extra 6 UK" tvg-logo="http://picon.space/btsportextra6.png" group-title="UK  SPORT",BT Sport Extra 6 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14806.ts
+#EXTINF:-1 tvg-id="BT Sport Mosaic 2 UK" tvg-name="BT Sport Mosaic 2 UK" tvg-logo="http://picon.space/btsport.png" group-title="UK  SPORT",BT Sport Mosaic 2 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14805.ts
+#EXTINF:-1 tvg-id="BT Sport Mosaic UK" tvg-name="BT Sport Mosaic UK" tvg-logo="http://picon.space/btsport.png" group-title="UK  SPORT",BT Sport Mosaic UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14777.ts
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3 HD UK" tvg-logo="http://picon.space/btsport3hd.png" group-title="UK  SPORT",BT Sport 3 HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14903.ts
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 HD UK" tvg-logo="http://picon.space/eurosport1hd.png" group-title="UK  SPORT",Eurosport 1 HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13091.ts
+#EXTINF:-1 tvg-id="Eurosport 1 UK" tvg-name="Eurosport 1 UK" tvg-logo="http://picon.space/eurosport1.png" group-title="UK  SPORT",Eurosport 1 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3590.ts
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="Eurosport 2 HD UK" tvg-logo="http://picon.space/eurosport2hd.png" group-title="UK  SPORT",Eurosport 2 HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13092.ts
+#EXTINF:-1 tvg-id="Eurosport 2 UK" tvg-name="Eurosport 2 UK" tvg-logo="http://picon.space/eurosport2.png" group-title="UK  SPORT",Eurosport 2 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3591.ts
+#EXTINF:-1 tvg-id="Fight Sports UK" tvg-name="Fight Sports UK" tvg-logo="http://picon.space/fightsports.png" group-title="UK  SPORT",Fight Sports UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14449.ts
+#EXTINF:-1 tvg-id="MOTORS TV UK UK" tvg-name="Motorsport TV HD UK" tvg-logo="http://picon.space/motorsporttv.png" group-title="UK  SPORT",Motorsport TV HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/4009.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 HD UK" tvg-name="Sky Sports Main Event FHD UK" tvg-logo="http://picon.space/skysportsmaineventuk.png" group-title="UK  SPORT",Sky Sports Main Event FHD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14651.ts
+#EXTINF:-1 tvg-id="Sky Sports 2  UK" tvg-name="Sky Sports Cricket FHD UK" tvg-logo="http://picon.space/skysportscricketuk.png" group-title="UK  SPORT",Sky Sports Cricket FHD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14652.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 HD UK" tvg-name="Sky Sports Action FHD UK" tvg-logo="http://picon.space/skysportsactionuk.png" group-title="UK  SPORT",Sky Sports Action FHD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14653.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 HD UK" tvg-name="Sky Sports Golf FHD UK" tvg-logo="http://picon.space/skysportsgolfuk.png" group-title="UK  SPORT",Sky Sports Golf FHD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14654.ts
+#EXTINF:-1 tvg-id="Sky Sports 5 HD UK" tvg-name="Sky Sports Premier League FHD UK" tvg-logo="http://picon.space/skysportspremierleagueuk.png" group-title="UK  SPORT",Sky Sports Premier League FHD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14655.ts
+#EXTINF:-1 tvg-id="Sky Sports F1 HD UK" tvg-name="Sky Sports F1 FHD UK" tvg-logo="http://picon.space/skysportsf1hd-clivebesle.png" group-title="UK  SPORT",Sky Sports F1 FHD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14656.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 HD UK" tvg-name="Sky Sports Action HD UK" tvg-logo="http://picon.space/skysportsactionuk.png" group-title="UK  SPORT",Sky Sports Action HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3598.ts
+#EXTINF:-1 tvg-id="Sky Sports 3 HD UK" tvg-name="Sky Sports Action UK" tvg-logo="http://picon.space/skysportsactionuk.png" group-title="UK  SPORT",Sky Sports Action UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14747.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena FHD UK" tvg-logo="http://picon.space/skysportsarenahduk.png" group-title="UK  SPORT",Sky Sports Arena FHD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16969.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Arena HD UK" tvg-logo="http://picon.space/skysportsarenahduk.png" group-title="UK  SPORT",Sky Sports Arena HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16968.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 HD UK" tvg-name="Sky Sports Main Event HD UK" tvg-logo="http://picon.space/skysportsmaineventuk.png" group-title="UK  SPORT",Sky Sports Main Event HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/5600.ts
+#EXTINF:-1 tvg-id="Sky Sports 1 HD UK" tvg-name="Sky Sports Main Event UK" tvg-logo="http://picon.space/skysportsmaineventuk.png" group-title="UK  SPORT",Sky Sports Main Event UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14753.ts
+#EXTINF:-1 tvg-id="Sky Sports 2  UK" tvg-name="Sky Sports Cricket HD UK" tvg-logo="http://picon.space/skysportscricketuk.png" group-title="UK  SPORT",Sky Sports Cricket HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/5601.ts
+#EXTINF:-1 tvg-id="Sky Sports 2  UK" tvg-name="Sky Sports Cricket UK" tvg-logo="http://picon.space/skysportscricketuk.png" group-title="UK  SPORT",Sky Sports Cricket UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14750.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Football HD UK" tvg-logo="http://picon.space/skysportsfootballuk.png" group-title="UK  SPORT",Sky Sports Football HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16970.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 HD UK" tvg-name="Sky Sports Golf HD UK" tvg-logo="http://picon.space/skysportsgolfuk.png" group-title="UK  SPORT",Sky Sports Golf HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3600.ts
+#EXTINF:-1 tvg-id="Sky Sports 4 HD UK" tvg-name="Sky Sports Golf UK" tvg-logo="http://picon.space/skysportsgolfuk.png" group-title="UK  SPORT",Sky Sports Golf UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14744.ts
+#EXTINF:-1 tvg-id="Sky Sports 5 HD UK" tvg-name="Sky Sports Premier League HD UK" tvg-logo="http://picon.space/skysportspremierleagueuk.png" group-title="UK  SPORT",Sky Sports Premier League HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/4458.ts
+#EXTINF:-1 tvg-id="Sky Sports 5 HD UK" tvg-name="Sky Sports Premier League UK" tvg-logo="http://picon.space/skysportspremierleagueuk.png" group-title="UK  SPORT",Sky Sports Premier League UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14742.ts
+#EXTINF:-1 tvg-id="Sky Box Office  UK" tvg-name="Sky Sports Box Office UK" tvg-logo="http://picon.space/skysportsboxoffice-clivebesle.png" group-title="UK  SPORT",Sky Sports Box Office UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14756.ts
+#EXTINF:-1 tvg-id="Sky Sports F1 HD UK" tvg-name="Sky Sports F1 HD UK" tvg-logo="http://picon.space/skysportsf1hd-clivebesle.png" group-title="UK  SPORT",Sky Sports F1 HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3603.ts
+#EXTINF:-1 tvg-id="Sky Sports F1 HD UK" tvg-name="Sky Sports F1 UK" tvg-logo="http://picon.space/skysportsf1.png" group-title="UK  SPORT",Sky Sports F1 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14739.ts
+#EXTINF:-1 tvg-id="Sky Sports Mix HD UK" tvg-name="Sky Sports Mix HD UK" tvg-logo="http://picon.space/skysportsmixhd.png" group-title="UK  SPORT",Sky Sports Mix HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14902.ts
+#EXTINF:-1 tvg-id="Sky Sports Mix UK" tvg-name="Sky Sports Mix UK" tvg-logo="http://picon.space/skysportsmix.png" group-title="UK  SPORT",Sky Sports Mix UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14926.ts
+#EXTINF:-1 tvg-id="Sky Sports News HQ HD UK" tvg-name="Sky Sports News HD UK" tvg-logo="http://picon.space/skysportsnewshqhd.png" group-title="UK  SPORT",Sky Sports News HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/1954.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 1 (Live During EPL) UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League",NBC Sports Extra 1 (Live During EPL) UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/8403.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 2 (Live During EPL) UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League",NBC Sports Extra 2 (Live During EPL) UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/8404.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 3 (Live During EPL) UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League",NBC Sports Extra 3 (Live During EPL) UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/8405.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 4 (Live During EPL) UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League",NBC Sports Extra 4 (Live During EPL) UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/8406.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 5 (Live During EPL) UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League",NBC Sports Extra 5 (Live During EPL) UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/8407.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 6 (Live During EPL) UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League",NBC Sports Extra 6 (Live During EPL) UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/8408.ts
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Extra 7 (Live During EPL) UK" tvg-logo="http://picon.space/nbcsportsliveextra.png" group-title="Premier League",NBC Sports Extra 7 (Live During EPL) UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/8409.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports UK" tvg-logo="http://picon.space/skynetsportshd.png" group-title="Premier League",Sky Net Sports UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13515.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 1 UK" tvg-logo="http://picon.space/skynetsports1.png" group-title="Premier League",Sky Net Sports 1 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13514.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 2 UK" tvg-logo="http://picon.space/skynetsports2.png" group-title="Premier League",Sky Net Sports 2 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/10919.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 3 UK" tvg-logo="http://picon.space/skynetsports3.png" group-title="Premier League",Sky Net Sports 3 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8v/10918.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 4 UK" tvg-logo="http://picon.space/skynetsports4.png" group-title="Premier League",Sky Net Sports 4 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/10917.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 5 UK" tvg-logo="http://picon.space/skynetsports5.png" group-title="Premier League",Sky Net Sports 5 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/10916.ts
+#EXTINF:-1 tvg-id="" tvg-name="Sky Net Sports 6 UK" tvg-logo="http://picon.space/skynetsports6.png" group-title="Premier League",Sky Net Sports 6 UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/10915.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 TH" tvg-logo="http://picon.space/beinsport1hd.png" group-title="Premier League",beIN SPORTS 1 TH
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16956.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 TH" tvg-logo="http://picon.space/beinsports2hd.png" group-title="Premier League",beIN SPORTS 2 TH
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16957.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 TH" tvg-logo="http://picon.space/beinsports3hd.png" group-title="Premier League",beIN SPORTS 3 TH
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16958.ts
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 4 TH" tvg-logo="http://picon.space/beinsport4hd.png" group-title="Premier League",beIN SPORTS 4 TH
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16959.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="2M Monde MA" tvg-logo="http://picon.space/2m.png" group-title="Marokko",2M Monde MA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/6077.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula HD MA" tvg-logo="http://picon.space/alaoulaarb.png" group-title="Marokko",Al Aoula HD MA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15418.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Maghribia MA" tvg-logo="http://picon.space/almaghribia.png" group-title="Marokko",Al Maghribia MA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/6079.ts
+#EXTINF:-1 tvg-id="" tvg-name="Laayoune TV MA" tvg-logo="http://picon.space/laayounearb.png" group-title="Marokko",Laayoune TV MA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/10759.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula Middle East MA" tvg-logo="http://picon.space/alaoulamiddleeastarb.png" group-title="Marokko",Al Aoula Middle East MA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15403.ts
+#EXTINF:-1 tvg-id="" tvg-name="Athaqafia MA" tvg-logo="http://picon.space/athaqafiaarb.png" group-title="Marokko",Athaqafia MA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/10760.ts
+#EXTINF:-1 tvg-id="" tvg-name="Arryadia MA" tvg-logo="http://picon.space/arryadiaarb.png" group-title="Marokko",Arryadia MA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/10762.ts
+#EXTINF:-1 tvg-id="" tvg-name="Assadissa MA" tvg-logo="http://picon.space/assadissaarb.png" group-title="Marokko",Assadissa MA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/10761.ts
+#EXTINF:-1 tvg-id="" tvg-name="Medi 1 TV MA" tvg-logo="http://picon.space/medi1tvarb.png" group-title="Marokko",Medi 1 TV MA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/6080.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Aoula Maroc MA" tvg-logo="" group-title="Marokko",Al Aoula Maroc MA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17314.ts
+#EXTINF:-1 tvg-id="" tvg-name="Tamazight MA" tvg-logo="http://picon.space/tamazightarb.png" group-title="Marokko",Tamazight MA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/10371.ts
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Arabiya AE" tvg-logo="http://picon.space/alarabiya.png" group-title="News",Al Arabiya AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15404.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Hadath News AE" tvg-logo="http://picon.space/alhadathnewsarb.png" group-title="News",Al Hadath News AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/6290.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alarabiya Al Hadath AE" tvg-logo="http://picon.space/alhadatharb.png" group-title="News",Alarabiya Al Hadath AE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/10352.ts
+#EXTINF:-1 tvg-id="" tvg-name="BBC Arabic ARB" tvg-logo="http://picon.space/bbcarabicarb.png" group-title="News",BBC Arabic ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/6286.ts
+#EXTINF:-1 tvg-id="" tvg-name="France 24 Arabic ARB" tvg-logo="http://picon.space/france24.png" group-title="News",France 24 Arabic ARB
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/6287.ts
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera News Arabic QA" tvg-logo="http://picon.space/aljazeeraarabic.png" group-title="News",Al Jazeera News Arabic QA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/16579.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="Aljazeera English HD QA" tvg-logo="" group-title="News",Aljazeera English HD QA
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/17298.ts
+
+
+#EXTINF:-1 tvg-id="BFM TV [HD] FR" tvg-name="BFM TV FR" tvg-logo="http://picon.space/bfmtv.png" group-title="News",BFM TV FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3607.ts
+#EXTINF:-1 tvg-id="EURONEWS INT. FR" tvg-name="Euronews FR" tvg-logo="http://picon.space/euronews.png" group-title="News",Euronews FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3751.ts
+#EXTINF:-1 tvg-id="FRANCE 24 FR" tvg-name="France 24 FR" tvg-logo="http://picon.space/france24.png" group-title="News",France 24 FR
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3753.ts
+
+#EXTINF:-1 tvg-id="n-tv DE" tvg-name="n-tv FHD DE" tvg-logo="http://picon.space/ntvhd.png" group-title="News",n-tv FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14054.ts
+
+#EXTINF:-1 tvg-id="N-TV DE" tvg-name="n-tv DE" tvg-logo="http://picon.space/ntv.png" group-title="News",n-tv DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3449.ts
+#EXTINF:-1 tvg-id="N24 DE" tvg-name="N24 FHD DE" tvg-logo="http://picon.space/n24hd.png" group-title="News",N24 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14573.ts
+#EXTINF:-1 tvg-id="N24 DE" tvg-name="N24 DE" tvg-logo="http://picon.space/n24.png" group-title="News",N24 DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3448.ts
+#EXTINF:-1 tvg-id="tagesschau24 HD 1080P DE" tvg-name="tagesschau24 FHD DE" tvg-logo="http://picon.space/tagesschau24hd.png" group-title="News",tagesschau24 FHD DE
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/15752.ts
+
+#EXTINF:-1 tvg-id="BBC NEWS UK" tvg-name="BBC News HD UK" tvg-logo="http://picon.space/bbcnewshd.png" group-title="News",BBC News HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14701.ts
+#EXTINF:-1 tvg-id="BBC NEWS UK" tvg-name="BBC News UK" tvg-logo="http://picon.space/bbcnewshd.png" group-title="News",BBC News UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/4020.ts
+
+
+#EXTINF:-1 tvg-id="CCTV News UK" tvg-name="CCTV News UK" tvg-logo="http://picon.space/cctvnews.png" group-title="News",CCTV News UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14970.ts
+
+#EXTINF:-1 tvg-id="CNBC UK" tvg-name="CNBC UK" tvg-logo="http://picon.space/cnbceurope.png" group-title="News",CNBC UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14968.ts
+#EXTINF:-1 tvg-id="CNN UK" tvg-name="CNN HD UK" tvg-logo="http://picon.space/cnnhd.png" group-title="News",CNN HD UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/14726.ts
+#EXTINF:-1 tvg-id="CNN UK" tvg-name="CNN UK" tvg-logo="http://picon.space/cnn.png" group-title="News",CNN UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3995.ts
+
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-logo="http://picon.space/skynews.png" group-title="News",Sky News UK
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/3570.ts
+
+#EXTINF:-1 tvg-id="CNBC US" tvg-name="CNBC US" tvg-logo="http://picon.space/cnbc.png" group-title="News",CNBC US
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/9028.ts
+#EXTINF:-1 tvg-id="CNN US" tvg-name="CNN US" tvg-logo="http://picon.space/cnn.png" group-title="News",CNN US
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/9029.ts
+
+#EXTINF:-1 tvg-id="Fox News Channel US" tvg-name="FOX News US" tvg-logo="http://picon.space/foxnews.png" group-title="News",FOX News US
+http://clientportal.link:8080/live/mokelado1/kiSI6bgic8/13100.ts
+
+
+
+
